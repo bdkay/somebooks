@@ -20,7 +20,9 @@ module.exports = {
     extensions: ['', '.js', '.jsx']
   },
   devServer: {
+    watchContentBase: true,
     historyApiFallback: true,
+    inline: true,
     contentBase: './',
     watchOptions: {
       aggregateTimeout: 300,
