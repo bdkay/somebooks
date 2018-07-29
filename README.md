@@ -1,2 +1,2 @@
-# Shinder
-Like Tinder, but for shins
+# SomeBooks
+Just havin' some food, listin' some books.
