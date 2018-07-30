@@ -6,7 +6,6 @@ export default function(state = null, action){
     case 'BOOK_SELECTED':
     // Don't mutate state here
     return action.payload;
-    
     default:
       return state;
   }
